@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Waving <a id="waving">
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Front-End 개발자 견기성입니다.!&fontAlign=80&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Front-End%20개발자%20견기성&fontAlign=50&fontAlignY=40&color=gradient)
 
 <!--
 **gyeongisung/gyeongisung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
